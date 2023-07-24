@@ -28,8 +28,5 @@
 Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.
 
 ###
-<div>
   
-![Snake animation](https://github.com/ErikeRodrigues/ErikeRodrigues.git/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+[![Snake animation](https://github.com/ErikeRodrigues/ErikeRodrigues/blob/output/github-contribution-grid-snake.svg)]
