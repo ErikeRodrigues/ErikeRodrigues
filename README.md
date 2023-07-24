@@ -29,4 +29,4 @@ Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.
 
 ###
   
-[![Snake animation](https://github.com/ErikeRodrigues/ErikeRodrigues/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/ErikeRodrigues/ErikeRodrigues/blob/output/github-contribution-grid-snake.svg)
