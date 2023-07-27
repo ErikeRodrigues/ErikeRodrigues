@@ -23,5 +23,4 @@
 [![Linke](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_rodrigues34/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-rodrigues-l021/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
 ![Snake animation](https://github.com/ErikeRodrigues/ErikeRodrigues/blob/output/github-contribution-grid-snake.svg)
